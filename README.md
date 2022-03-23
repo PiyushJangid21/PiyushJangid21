@@ -27,7 +27,7 @@
 
 
 
-## Wanna say Hi 👋👋
+## Wanna say Hello 👋👋
 
 
   <a target="_blank" href="https://www.linkedin.com/in/piyushjangid21/">
