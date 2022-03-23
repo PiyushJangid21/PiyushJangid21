@@ -1,4 +1,7 @@
 ### Hello, I am Piyush 👋
+
+
+
 🚀 I am a **Software Developer** who likes Backend <br>
 
 
@@ -9,16 +12,16 @@
  <div>
   <p align="center">
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
-    &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
-    &nbsp &nbsp
+    &nbsp &nbsp &nbsp &nbsp
     <br>
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-    &nbsp &nbsp  
-  <img width="40" height="40" src="https://cdn.svgporn.com/logos/express.svg">
-    &nbsp &nbsp
-    <br>
+    &nbsp &nbsp &nbsp &nbsp
   <img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
+    &nbsp &nbsp &nbsp &nbsp
+    <br>
+  <img width="40" height="40" src="https://cdn.svgporn.com/logos/express.svg">
   </p>
 </div>
 
