@@ -17,9 +17,9 @@
     &nbsp &nbsp &nbsp 
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
     &nbsp &nbsp &nbsp 
-  <img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
-    &nbsp &nbsp &nbsp 
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/express.svg">
+    &nbsp &nbsp &nbsp 
+  <img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
   </p>
 </div>
 
