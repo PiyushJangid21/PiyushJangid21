@@ -35,7 +35,7 @@
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
   <a target="_blank" href="https://instagram.com/piyush.21217">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/instagram.svg" />
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/instagram.icon.svg" />
   </a>
   <a target="_blank" href="https://www.facebook.com/piyushjangid21">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/facebook.svg" />
