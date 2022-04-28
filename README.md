@@ -11,15 +11,15 @@
 
  <div>
   <p align="center">
-  <img width="40" height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
+  <img width="50" height="60" src="https://cdn.svgporn.com/logos/javascript.svg">
     &nbsp &nbsp &nbsp
-  <img width="40" height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
+  <img width="50" height="60" src="https://cdn.svgporn.com/logos/html-5.svg">
     &nbsp &nbsp &nbsp 
-  <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
+  <img width="50" height="60" src="https://cdn.svgporn.com/logos/nodejs.svg">
     &nbsp &nbsp &nbsp 
-  <img width="40" height="40" src="https://cdn.svgporn.com/logos/express.svg">
+  <img width="50" height="60" src="https://cdn.svgporn.com/logos/express.svg">
     &nbsp &nbsp &nbsp 
-  <img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
+  <img height="60" width="70" src="https://cdn.svgporn.com/logos/mongodb.svg">
   </p>
 </div>
 
