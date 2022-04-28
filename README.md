@@ -15,7 +15,7 @@
     &nbsp &nbsp &nbsp
   <img width="50" height="50" src="https://cdn.svgporn.com/logos/html-5.svg">
     &nbsp &nbsp &nbsp 
-  <img width="50" height="50" src="https://cdn.svgporn.com/logos/nodejs.svg">
+  <img width="50" height="50" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
     &nbsp &nbsp &nbsp 
   <img width="50" height="50" src="https://cdn.svgporn.com/logos/express.svg">
     &nbsp &nbsp &nbsp 
@@ -35,7 +35,7 @@
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
   <a target="_blank" href="https://instagram.com/piyush.21217">
-    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/instagram.icon.svg" />
+    <img align="left" width="26px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
   </a>
   <a target="_blank" href="https://www.facebook.com/piyushjangid21">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/facebook.svg" />
