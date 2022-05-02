@@ -11,13 +11,13 @@
 
  <div>
   <p align="center">
-  <img width="50" height="50" src="https://cdn.svgporn.com/logos/javascript.svg">
+  <img width="40" height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
     &nbsp &nbsp &nbsp
-  <img width="50" height="50" src="https://cdn.svgporn.com/logos/html-5.svg">
+  <img width="40" height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
     &nbsp &nbsp &nbsp 
-  <img width="50" height="50" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+  <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
     &nbsp &nbsp &nbsp 
-  <img width="50" height="50" src="https://cdn.svgporn.com/logos/express.svg">
+  <img width="40" height="40" src="https://cdn.svgporn.com/logos/express.svg">
     &nbsp &nbsp &nbsp 
   <img height="60" width="60" src="https://cdn.svgporn.com/logos/mongodb.svg">
   </p>
@@ -27,9 +27,9 @@
 
 ## Wanna say Hello 👋👋
 
-
+<p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/piyushjangid21/">
-    <img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
+    <img width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
   <a target="_blank" href="https://twitter.com/piyushjangid21">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
@@ -43,3 +43,4 @@
   <a href="mailto:piyushjangid212@gmail.com">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/google-gmail.svg" />
   </a>
+ </p>
