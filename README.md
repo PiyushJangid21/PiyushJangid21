@@ -27,7 +27,7 @@
 
 ## Wanna say Hello 👋👋
 
-  <a target="_blank" href="https://www.linkedin.com/in/piyushjangid21/">
+  <a target="_blank" href="https://www.linkedin.com/in/piyushjangid.12/">
     <img img align="left" width="84px" src="https://cdn.svgporn.com/logos/linkedin.svg" />
   </a>
   <a target="_blank" href="https://twitter.com/piyushjangid21">
