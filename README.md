@@ -33,7 +33,7 @@
   <a target="_blank" href="https://twitter.com/piyushjangid.12">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/twitter.svg" />
   </a>
-  <a target="_blank" href="https://instagram.com/piyushjangid21">
+  <a target="_blank" href="https://instagram.com/piyushjangid.12">
     <img align="left" width="26px" src="https://cdn.svgporn.com/logos/instagram-icon.svg" />
   </a>
   <a target="_blank" href="https://www.facebook.com/piyushjangid21">
