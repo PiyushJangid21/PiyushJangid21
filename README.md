@@ -14,7 +14,7 @@
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
     &nbsp &nbsp
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/html-5.svg">
-    &nbsp &nbsp &nbsp 
+   <br>
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
     &nbsp &nbsp 
    <p align="center">
